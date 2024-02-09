@@ -1,0 +1,28 @@
+div{
+    background-color: white;
+    align-items: center;
+    border-radius: 5px;
+    height: 500px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+body{
+    background-image: linear-gradient(purple,aqua);
+    background-repeat: no-repeat;
+}
+div > input{
+   text-align: center;
+   margin-right: 10px;
+   margin-bottom: 5px;
+   margin-top: 5px;
+   padding-left: 0;
+   padding-right: 20px;
+}
+.w{
+   margin-left: 100px;
+}
+h3{
+   margin-left: 100px;
+}
